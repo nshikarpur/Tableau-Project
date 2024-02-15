@@ -1,0 +1,10 @@
+This project is on Tableau.
+
+In this Tableau project, a comprehensive visualization was crafted using a CSV/Excel file containing 35 columns of employee details,
+including age, experience, and various personal attributes. Leveraging Tableau's intuitive interface and powerful visualization tools, 
+the dataset was transformed into insightful visualizations that provided a holistic view of the employee landscape. Through interactive
+dashboards and dynamic filters, users could explore key metrics such as age distribution, experience levels across departments, 
+and correlations between different personal attributes. Additionally, advanced analytics features within Tableau allowed for deeper analysis, 
+such as identifying trends over time, detecting outliers, and uncovering patterns within the data. This project not only facilitated a better 
+understanding of the employee demographics but also empowered stakeholders to make data-driven 
+decisions related to talent management, workforce planning, and organizational development.
