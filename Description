@@ -1,6 +1,6 @@
 This project is on Tableau.
 
-In this Tableau project, a comprehensive visualization was crafted using a CSV/Excel file containing 35 columns of employee details,
+In this Tableau project, a comprehensive visualization was crafted using a CSV/Excel file containing 1400+ Records of employee details,
 including age, experience, and various personal attributes. Leveraging Tableau's intuitive interface and powerful visualization tools, 
 the dataset was transformed into insightful visualizations that provided a holistic view of the employee landscape. Through interactive
 dashboards and dynamic filters, users could explore key metrics such as age distribution, experience levels across departments, 
